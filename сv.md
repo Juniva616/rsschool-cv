@@ -13,15 +13,15 @@ Discord: Julia (@juniva616)
 
 WhatsApp: +38-063-656-8870
 
-GitHub: juniva616
+GitHub: https://github.com/Juniva616
 
 ----
 
 ## Summary
 
-I like to learn and I have been studying all my life. I studied SMM, Design for Instagram, Sales Management, painting. I like to make something by hands, when you create something from nothing. Programming is also the way to do it.
+I like to learn and I have been studying all my life. I studied SMM, Design for Instagram, Sales Management, painting. I like to make something by hands, when you create something nice from nothing. Programming is also the way to do it.
 
-I graduated from university with a degree in software engineering, but I have not worked in this specialty for many years. I have decided to update my knowledge and I have to start from the very beginning. Modern technologies change very quickly.
+I graduated from university with a degree in software engineering but I have not worked in this specialty for many years. I have decided to update my knowledge and I have to start from the very beginning. Modern technologies change very quickly.
 
 I want to become an experienced Front-End developer and I try to acquire all the necessary knowledge from all possible sources. I have been studying at the Code Institute for 6 months where I have done three study projects. Now I have joined the RS school to get profound knowledge of JavaScript.
 
@@ -40,9 +40,6 @@ I want to become an experienced Front-End developer and I try to acquire all the
 ## Code examples
 
 ```
-/**
- *  Adds eventListeners to "Agree" and "Disagree" buttons, calls checkAnswers()
- */
 function checkAnswersMain() {
 
   //the part for "Agree" button
@@ -55,13 +52,13 @@ function checkAnswersMain() {
   });
 }
 ```
-## My projects
+## My study projects
 
-Static HTML: https://juniva616.github.io/milestone-1/
+HTML, CSS: https: https://juniva616.github.io/milestone-1/
 
-HTML, CSS an JvaScript:  https://juniva616.github.io/quiz/
+HTML, CSS, JavaScript:  https://juniva616.github.io/quiz/
 
-Python:  https://shoot-ships.herokuapp.com/
+Python: https://shoot-ships.herokuapp.com/
  
 ## Education  
 
