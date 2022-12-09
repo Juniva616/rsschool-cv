@@ -1,10 +1,15 @@
- # rsschool-cv
+ ![RSSchool logo](rss.png) 
+
+ # [**rsschool-cv**](https://juniva616.github.io/rsschool-cv/cv)
+
  
  # **Yuliia Vasylenko**
  
+
+
  ## Contact Info
 
-----
+
 Phone: +38-099-010-4524
 
 E-mail: juniva616@gmail.com
@@ -15,7 +20,9 @@ WhatsApp: +38-063-656-8870
 
 GitHub: https://github.com/Juniva616
 
+
 ----
+
 
 ## Summary
 
@@ -24,6 +31,8 @@ I like to learn and I have been studying all my life. I studied SMM, Design for 
 I graduated from university with a degree in software engineering but I have not worked in this specialty for many years. I have decided to update my knowledge and I have to start from the very beginning. Modern technologies change very quickly.
 
 I want to become an experienced Front-End developer and I try to acquire all the necessary knowledge from all possible sources. I have been studying at the Code Institute for 6 months where I have done three study projects. Now I have joined the RS school to get profound knowledge of JavaScript.
+
+----
 
 
 ## Skills  
@@ -37,7 +46,11 @@ I want to become an experienced Front-End developer and I try to acquire all the
 - Agile methodology
 - Test-driven development (TDD) 
 
-## Code examples
+----
+
+
+## Code examples 
+(a snippet from my project Flora & Fauna Quiz)
 
 ```
 function checkAnswersMain() {
@@ -52,19 +65,28 @@ function checkAnswersMain() {
   });
 }
 ```
+
+----
+
+
 ## My study projects
 
-HTML, CSS: https: https://juniva616.github.io/milestone-1/
+[**Our Tiny Gallery** (HTML, CSS)](https://juniva616.github.io/milestone-1/)
 
-HTML, CSS, JavaScript:  https://juniva616.github.io/quiz/
+[**Flora & Fauna Quiz** (HTML, CSS, JavaScript)](https://juniva616.github.io/quiz/)
 
-Python: https://shoot-ships.herokuapp.com/
+[**The Sea Battle game** (Python)](https://shoot-ships.herokuapp.com/)
+
+----
  
+
 ## Education  
 
 The Kharkiv Polytechnic University, degree in Software engineering
 
 The Code Institute (Ireland), I am an active student of the "Full-Stack Developer" course
+
+----
 
 
 ## Languages
@@ -72,3 +94,4 @@ The Code Institute (Ireland), I am an active student of the "Full-Stack Develope
 - English: Advanced (CEFR C1). I have studied programming at the Code Institute in English for 6 months, so I have had enough practice.
 - Native languages: Ukrainian, Russian
 - Serbian, Polish, Italian: A1 (lowest level). 
+
