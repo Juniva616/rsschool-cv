@@ -65,8 +65,13 @@ Python:  https://shoot-ships.herokuapp.com/
  
 ## Education  
 
-Kharkiv Politechnical University
+The Kharkiv Polytechnic University, degree in Software engineering
 
-The Code Institute (Ireland)
+The Code Institute (Ireland), I am an active student of the "Full-Stack Developer" course
 
-## English (level of English, if there was a language practice, tell us about it)
+
+## Languages
+
+- English: Advanced (CEFR C1). I have studied programming at the Code Institute in English for 6 months, so I have had enough practice.
+- Native languages: Ukrainian, Russian
+- Serbian, Polish, Italian: A1 (lowest level). 
