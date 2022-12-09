@@ -1,8 +1,72 @@
-1. First and last name
-2. Contacts for communication
-3. Brief information about yourself (your goal and priorities, highlight your strengths, tell us about your work experience, if there is no work experience, tell us about your desire to learn and learn new things)
-4. Skills (programming languages, frameworks, methodologies, version control systems and development tools that you own)
-5. Code examples
-6. Work experience. Junior Dev can list learning projects with skills used and links to source code.
-7. Education (including completed courses and trainings)
-8. English (level of English, if there was a language practice, tell us about it)
+ # rsschool-cv
+ 
+ # **Yuliia Vasylenko**
+ 
+ ## Contact Info
+
+----
+Phone: +38-099-010-4524
+
+E-mail: juniva616@gmail.com
+
+Discord: Julia (@juniva616)
+
+WhatsApp: +38-063-656-8870
+
+GitHub: juniva616
+
+----
+
+## Summary
+
+I like to learn and I have been studying all my life. I studied SMM, Design for Instagram, Sales Management, painting. I like to make something by hands, when you create something from nothing. Programming is also the way to do it.
+
+I graduated from university with a degree in software engineering, but I have not worked in this specialty for many years. I have decided to update my knowledge and I have to start from the very beginning. Modern technologies change very quickly.
+
+I want to become an experienced Front-End developer and I try to acquire all the necessary knowledge from all possible sources. I have been studying at the Code Institute for 6 months where I have done three study projects. Now I have joined the RS school to get profound knowledge of JavaScript.
+
+
+## Skills  
+
+- HTML5
+- CSS3 (Framework Bootstrap, BEM methodology)
+- JavaScript (basic knowledge)
+- Version control: GitHub, GitPod
+- Python (basic knowledge) 
+- VS Code
+- Agile methodology
+- Test-driven development (TDD) 
+
+## Code examples
+
+```
+/**
+ *  Adds eventListeners to "Agree" and "Disagree" buttons, calls checkAnswers()
+ */
+function checkAnswersMain() {
+
+  //the part for "Agree" button
+  document.getElementById('true-button').addEventListener('click', function () {
+    checkAnswers(true);
+  });
+  //the part for "Disagree" button  
+  document.getElementById('false-button').addEventListener('click', function () {
+    checkAnswers(false);
+  });
+}
+```
+## My projects
+
+Static HTML: https://juniva616.github.io/milestone-1/
+
+HTML, CSS an JvaScript:  https://juniva616.github.io/quiz/
+
+Python:  https://shoot-ships.herokuapp.com/
+ 
+## Education  
+
+Kharkiv Politechnical University
+
+The Code Institute (Ireland)
+
+## English (level of English, if there was a language practice, tell us about it)
