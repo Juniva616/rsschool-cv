@@ -1,13 +1,13 @@
- ![RSSchool logo](rss.png) 
+![RSSchool logo](rss.png) 
 
- # [rsschool-cv](https://juniva616.github.io/rsschool-cv/)
+[**rsschool-cv**](https://juniva616.github.io/rsschool-cv/)
 
  
- # Yuliia Vasylenko
+# **Yuliia Vasylenko**
  
 
 
- ## Contact Info
+## Contact Info
 
 
 Phone: +38-099-010-4524
