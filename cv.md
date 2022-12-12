@@ -46,7 +46,7 @@ study projects. Now I have joined the RS school to get profound knowledge of Jav
 - CSS3 (Framework Bootstrap, BEM methodology)
 - JavaScript (basic knowledge)
 - Version control: GitHub, GitPod
-- Python (basic knowledge) 
+- Python (basic knowledge)
 - VS Code
 - Agile methodology
 - Test-driven development (TDD)
