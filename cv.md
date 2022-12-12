@@ -2,9 +2,9 @@
 
 [**rsschool-cv**](https://juniva616.github.io/rsschool-cv/)
 
- 
+
 # **Yuliia Vasylenko**
- 
+
 
 
 ## Contact Info
@@ -31,11 +31,11 @@ I like to learn and I have been studying all my life. I studied SMM, Design for 
 
 I graduated from university with a degree in software engineering but I have not worked in this specialty
  for many years. I have decided to update my knowledge and I have to start from the very beginning. Modern
-  technologies change very quickly.
+technologies change very quickly.
 
 I want to become an experienced Front-End developer and I try to acquire all the necessary knowledge from
  all possible sources. I have been studying at the Code Institute for 6 months where I have done three
-  study projects. Now I have joined the RS school to get profound knowledge of JavaScript.
+study projects. Now I have joined the RS school to get profound knowledge of JavaScript.
 
 ----
 
@@ -63,7 +63,7 @@ function checkAnswersMain() {
   document.getElementById('true-button').addEventListener('click', function () {
     checkAnswers(true);
   });
-  //the part for "Disagree" button  
+  //the part for "Disagree" button
   document.getElementById('false-button').addEventListener('click', function () {
     checkAnswers(false);
   });
@@ -81,7 +81,7 @@ function checkAnswersMain() {
 [The Sea Battle game (Python)](https://shoot-ships.herokuapp.com/)
 
 ----
- 
+
 
 ## Education
 
@@ -98,4 +98,3 @@ The Code Institute (Ireland), I am an active student of the "Full-Stack Develope
  so I have had enough practice.
 - Native languages: Ukrainian, Russian
 - Serbian, Polish, Italian: A1 (lowest level).
-
