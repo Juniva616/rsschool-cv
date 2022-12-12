@@ -1,4 +1,4 @@
- ![RSSchool logo](rss.png)
+![RSSchool logo](rss.png)
 
 
 ----
