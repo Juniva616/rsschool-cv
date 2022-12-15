@@ -13,13 +13,19 @@
 
   <article class="container">
     <header>
-      <div class="row">
-        <div class="col-12">
-          <section class="photoname">
-            Foto + name
-          </section>
+      <section class="my-info">
+        <div class="row">
+          <div class="col-4">
+            <img src="myphoto.jpg" alt="Yuliia's photo" width="200" height="200">
+          </div>
+
+          <div class="col-8">
+            <h1>Yuliia Vasylenko</h1>
+            <p class="lead center">Future Front-End Developer</p>
+          </div>
+
         </div>
-      </div>
+      </section>
     </header>
 
     <main>
@@ -27,9 +33,9 @@
 
         <div class="row">
           <div class="col-4">
-             1 of 2
+             <!-- 1 of 2 -->
             <section class="contacts">
-              <pre><h2>Contacts</h2>
+              <h2>Contacts</h2>
               Phone: +38-099-010-4524
 
               E-mail: juniva616@gmail.com
@@ -39,7 +45,7 @@
               WhatsApp: +38-063-656-8870
 
               GitHub: https://github.com/Juniva616
-            </pre>
+           
             </section>
             <section class="education">
               <h2>Education</h2>
@@ -50,20 +56,21 @@
             </section>
             <section class="projects">
               <h2>Projects</h2>
-              <a href="https://juniva616.github.io/milestone-1">Our Tiny Gallery (HTML, CSS) </a><br>
+              <a href="https://juniva616.github.io/milestone-1" target="_blank">Our Tiny Gallery (HTML, CSS) </a><br>
 
-              <a href="https://juniva616.github.io/quiz/"> Flora & Fauna Quiz (HTML, CSS, JavaScript)</a><br>
+              <a href="https://juniva616.github.io/quiz/" target="_blank"> Flora & Fauna Quiz (HTML, CSS,
+                JavaScript)</a><br>
 
-              <a href="https://shoot-ships.herokuapp.com/"> The Sea Battle game (Python) </a><br>
+              <a href="https://shoot-ships.herokuapp.com/" target="_blank"> The Sea Battle game (Python) </a><br>
 
-               
+
             </section>
           </div>
 
           <div class="col-8">
-            2 of 2
+           <!-- 2 of 2 -->
             <section class="summary">
-              <h2>Summary</h2>
+              <h2>About Myself</h2>
 
               I like to learn and I have been studying all my life. I studied SMM, Design for Instagram,
               Sales Management, painting. I like to make something by hands, when you create something nice from
@@ -101,10 +108,10 @@
               <h2>Samples of the code</h2>
               <p>(a snippet from my project Flora & Fauna Quiz)</p>
               <Code>
-
+              <pre>
                 function checkAnswersMain() {
                 
-                  //the part for "Agree" button
+                  //the part for "Agree" button<br>
                   document.getElementById('true-button').addEventListener('click', function () {
                     checkAnswers(true);
                   });
@@ -113,6 +120,7 @@
                     checkAnswers(false);
                   });
                 }
+              </pre>
                 </Code>
             </section>
           </div>
@@ -121,7 +129,7 @@
       </div>
     </main>
 
-    <footer class="footer">
+    <footer class="container-fluid">
       <div class="row">
         <div class="col-12">
           Footer info

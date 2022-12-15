@@ -1,8 +1,37 @@
 body {
-    background-color: lightgreen;
+    padding: 0;
+    margin: 0;
+    background-color: white;
 }
 
+.container {
+    background-color: azure;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px auto;
+    width: 1024px; 
+   /* box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 23%);
+    box-shadow: 10px 10px 10px 3px rgba(0, 0, 0, 0.2);*/
+    box-shadow: -20px -10px 4px rgba(211, 211, 211, 0.6), 2px -2px rgba(211, 211, 211, 0.3);
+}
+
+
 h1 {
-    color: blue;
+    color: indigo;
+    text-align: center;
+}
+
+header img {
+    margin: 20px;
+    border-radius: 50%;
+    border: 10px solid  indigo;
+}
+
+footer {
+    background-color: indigo;
+    min-height: 100px;
+}
+.center {
     text-align: center;
 }
