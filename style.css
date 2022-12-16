@@ -10,29 +10,45 @@ body {
     font-size: 18px;
     line-height: 1.5;
     margin: 10px auto;
-    width: 1024px; 
+    width: 1024px;
     box-shadow: -10px -5px 4px rgba(211, 211, 211, 0.6), 2px -2px rgba(211, 211, 211, 0.3);
 }
 
-
-h1 {
-    color: indigo;
+h1,
+h2 {
+    color: #0b413e;
     text-align: center;
 }
 
 header img {
     margin: 20px;
     border-radius: 50%;
-    border: 10px solid  indigo;
+    border: 5px solid #a8f0ec;
 }
 
-footer {
-    background-color: indigo;
-    height: 100px;
-    width: 100%;
-
+.name {
+padding-top: 40px;
 }
 
 .center {
     text-align: center;
+}
+
+.left-column {
+    background-color: #bef4f1;
+}
+
+.contacts ul {
+list-style-type: none;
+padding-left: 10px;
+}
+
+footer {
+    background-color: #0b413e;
+    height: 100px;
+    width: 100%;
+}
+
+footer a {
+    text-decoration: none;
 }
