@@ -60,10 +60,19 @@ h2 {
 
 .left-column {
     background-color: #bef4f1;
-    width: 37%;
+    width: 38%;
     position: relative;
     margin-left: 20px;
     box-shadow: -10px 5px rgba(46, 139, 87, 0.4);
+}
+
+.right-column {
+    width: 55%;
+    margin-left: 15px;
+}
+
+.summary {
+    text-align: justify;
 }
 
 .contacts ul {
