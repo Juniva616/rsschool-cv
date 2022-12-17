@@ -141,4 +141,8 @@ footer p {
     h1 {
         padding-top: 2%;
     }
+    .left-column {
+        margin-left: 0;
+        box-shadow: -15px 5px rgba(46, 139, 87, 0.4);
+    }
   }
