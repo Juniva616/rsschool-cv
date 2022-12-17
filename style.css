@@ -88,7 +88,7 @@ h3 {
     margin-left: 20px;
     width: 38%;
     background-color: #bef4f1;
-    box-shadow: -10px 5px rgba(46, 139, 87, 0.4);
+    box-shadow: -15px 5px rgba(46, 139, 87, 0.4);
 }
 
 .right-column {
@@ -113,6 +113,10 @@ h3 {
 .accordion-button {
     padding: 0.25rem 1.25rem;
 }
+ 
+#headingOne {
+    margin-top: 1px;
+}
 
 footer {
     height: 100px;
@@ -136,13 +140,16 @@ footer p {
 @media screen and (max-width: 992px) {
     .name {
         margin-top: 1%;
+        box-shadow: -13px 5px rgba(46, 139, 87, 0.4);
     }
 
     h1 {
         padding-top: 2%;
     }
+
     .left-column {
-        margin-left: 0;
+        margin-left: 15px;
+        margin-top: 5px;
         box-shadow: -15px 5px rgba(46, 139, 87, 0.4);
     }
   }

@@ -10,11 +10,13 @@
 ## Contact Info
 
 
-E-mail: juniva616@gmail.com
+E-mail: juniva616@juniva.net
 
 Discord: Julia (@juniva616)
 
 GitHub: https://github.com/Juniva616
+
+Telegram: t.me/@juniva_pro
 
 
 ----
