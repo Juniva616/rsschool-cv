@@ -1,16 +1,218 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" type="text/css">
-    <title>Document</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://kit.fontawesome.com/2e9af526bb.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald&family=Source+Sans+Pro:ital,wght@0,300;1,400&family=Ubuntu&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" type="text/css">
+<title>CV</title>
 </head>
+
 <body>
-   <h1> Yuliia Vasylenko  </h1>
-   <div>
-    
-   </div>
+
+  <div class="container">
+    <header>
+      <section class="header">
+        <div class="row">
+          <div class="col-lg-5">
+            <p class="photo">
+              <img src="myphoto.jpg" alt="Yuliia's photo" width="200" height="200">
+            </p>
+          </div>
+
+          <div class="col-lg-7">
+            <div class="name">
+              <h1>Yuliia Vasylenko</h1>
+              <p class="lead center">Junior Front-End Developer</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <div class="row">
+        <div class="col-12 col-md-5 col-lg-5 left-column">
+          <section class="contacts">
+            <h3>Contacts</h3>
+            <ul>
+              <li><i class="fa-brands fa-discord"></i>&nbsp; Julia (@juniva616)</li>
+              <li><i class="fa-solid fa-envelope"></i>&nbsp; &nbsp; juniva616@gmail.com </li>
+              <li><i class="fa-brands fa-github"></i>&nbsp; &nbsp; github.com/Juniva616</li>
+            </ul>
+          </section>
+          <section class="education">
+            <h3>Education</h3>
+            <ul>
+              <li>NTU "Kharkiv Polytechnic Institute"<br>
+                Speciality: Automated control systems</li>
+              <li>The Code Institute,<br>«Full Stack
+                Software Development»</li>
+              <li>RS School «JavaScript/Front-end.Stage0»</li>
+              <li>HTML and CSS Tutorials on w3schools</li>
+            </ul>
+          </section>
+          <section class="skills">
+            <h3>Skills</h3>
+            <ul>
+              <li> HTML5</li>
+              <li> CSS3 (Framework Bootstrap, BEM methodology)</li>
+              <li> JavaScript (basic knowledge)</li>
+              <li> Python (basic knowledge)</li>
+              <li> Version control: GitHub, GitPod</li>
+              <li> VS Code</li>
+              <li> Agile methodology</li>
+              <li> Test-driven development (TDD)</li>
+            </ul>
+          </section>
+          <section class="languages">
+            <h3>Languages</h3>
+            <ul>
+              <li> English: Advanced (CEFR C1) </li>
+              <li> Ukrainian: mother tongue </li>
+              <li> Russian: fluent </li>
+              <li> Serbian, Polish: A1 (the lowest level)</li>
+            </ul>
+          </section>
+        </div>
+
+        <div class="col-12 col-md-7 col-lg-7 right-column">
+          <section class="summary">
+            <h2>About Me</h2>
+            <p>
+              I graduated from the university with a degree in software engineering but I have not worked in this
+              specialty
+              for many years. I have decided to update my knowledge and I have to start from the very beginning.
+              Modern
+              technologies change very quickly.
+            </p>
+            <p>
+              I like to learn and I have been studying all my life. I studied SMM, Design for Instagram,
+              Sales Management, painting (my <a href="https://juniva616.github.io/milestone-1" target="_blank">art
+                gallery</a>).
+              I like to make something by hands, when you create something nice from
+              nothing. Programming is also the way to do it.
+            </p>
+            <p>
+              I want to become an experienced Front-End developer and I try to acquire all the necessary knowledge
+              from all possible sources.
+            </p>
+          </section>
+          <section class="projects">
+            <h2>My Projects</h2>
+            <ul>
+              <li><a href="https://juniva616.github.io/milestone-1" target="_blank">Our Tiny Gallery (HTML, CSS) </a>
+              </li>
+              <li><a href="https://juniva616.github.io/quiz/" target="_blank"> Flora & Fauna Quiz (HTML, CSS, JS)</a>
+              </li>
+              <li><a href="https://github.com/Juniva616/game/" target="_blank"> The Sea Battle game (Python) </a></li>
+            </ul>
+          </section>
+
+          <section class="code">
+            <h2>Samples of the code</h2>
+
+            <div class="accordion" id="accordionExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                    aria-expanded="true" aria-controls="collapseOne">
+                    CSS Code
+                  </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                  data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <pre><code>
+   .name {
+   margin-top: 8%;
+   padding-top: 20px;
+   background-color: #bef4f1;
+   box-shadow: -10px 5px rgba(46, 139, 87, 0.4);
+   }
+                    </code></pre>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    JavaScript code
+                  </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                  data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <pre><code>
+   function showCorrectAnswer(isCorrect) {
+       let correctText = isCorrect ? 'You are right!' : 'You are wrong!';
+       document.getElementById('question').innerText = correctText + "\n" + quizArray[i].textInfo;
+       document.getElementById('button-area').innerHTML =
+           `<input class="button" id="next-button" type="submit" value ="next">`;
+    }
+                    </code></pre>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Python code
+                  </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                  data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <pre><code>
+def comp_shoot():
+    """
+    Gets random coordinates for Computer's shoots.
+    Checks if the coordinates have already been used or not.
+    """
+    who = False
+    x = random_dot(size)
+    y = random_dot(size)
+    if user_ships.board[x][y] == '.':
+        print(f"Computer is shooting at {(x,y)}.")
+        check_shoot(x, y, who)
+    elif user_ships.board[x][y] == '&':
+        print(f"Computer is shooting at {(x,y)}.")
+        check_shoot(x, y, who)
+    else:
+        comp_shoot()
+                   </code></pre>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p> <a href="https://github.com/Juniva616/rsschool-cv" target="_blank"><i class="fa-brands fa-github"></i>&nbsp;
+          &nbsp; My
+          GitHub </a> &nbsp;&nbsp;&nbsp; &copy; 2022
+      </p>
+      <p>
+        <a href="https://rs.school/js/" target="_blank"><img src="rss.png" alt="rsschool logo" width="90"
+            height="30"></a>
+      </p>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+ 
+ 
 </body>
+
 </html>
