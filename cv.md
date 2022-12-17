@@ -10,13 +10,9 @@
 ## Contact Info
 
 
-Phone: +38-099-010-4524
-
 E-mail: juniva616@gmail.com
 
 Discord: Julia (@juniva616)
-
-WhatsApp: +38-063-656-8870
 
 GitHub: https://github.com/Juniva616
 
